@@ -1,0 +1,11 @@
+# Site settings
+title: Thematic Cartography Overview
+description: > # this means to ignore newlines until "baseurl:"
+  A quick guide to basic types of thematic mapping.
+baseurl: "/thematic-cartography" # the subpath of your site, e.g. /blog/
+url: "http://axismaps.github.io" # the base hostname & protocol for your site
+twitter_username: axismaps
+github_username:  axismaps
+
+# Build settings
+markdown: kramdown
