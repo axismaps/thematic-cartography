@@ -7,7 +7,7 @@ title: Standardizing Data
 
 A very important consideration in thematic mapping is whether you want to present your data as **raw counts / totals** (e.g., the population of each country) or if you want to standardize your data to create **rates / ratios** (e.g., number of people in a each country _divided_ by the area of that country = number of people per square mile/km). In this population example, the raw counts tell you how many people exist in each country, the ratio tells you how tightly packed-in those people are. One of the primary reasons to standardize your data is to allow your readers to compare places that are very different. For example, you can directly compare a large place (like Canada) with a smaller place (like Switzerland). Although Canada has more people than Switzerland, it has a far lower population density; without standardization, that fact might not be obvious.
 
-**NOTE:** If you want to make a [choropleth map](../articles/choropleth.html, you MUST map only standardized data.
+**NOTE:** If you want to make a [choropleth map](../articles/choropleth.html), you MUST map only standardized data.
 
 Bottom line: If you want your map readers to understand _magnitudes_ (how much of something exists), use map totals/counts. If you want your map readers to understand _relative differences_ (that account for things like size differences), use standardized data.
 
