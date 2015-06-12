@@ -30,8 +30,6 @@ This guide is written by Axis Maps, adapted from documentation written for [indi
 *   [Bivariate Cartogram](articles/bivariate_cartograms.html)
 *   [Bivariate Proportional Symbols](articles/bivariate_proportional.html)
 *   [Value by Alpha](articles/value_by_alpha.html)
-*   [Proportional Labels](articles/proportional_labels.html) (2 variables)
-*   [Colored Proportional Labels](articles/trivariate_labels.html) (3 variables)
 
 **Want to dig a bit deeper?** Have a look at a few of our favorite textbooks:
 
