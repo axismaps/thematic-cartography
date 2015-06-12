@@ -17,6 +17,7 @@ This guide was written by [Axis Maps](http://axismaps.com), adapted from documen
 *   [Labeling and Text in Cartography](articles/labeling.html)
 *   [Using Colors on Thematic Maps](articles/color_schemes.html)
 *   [Univariate Maps versus Multivariate Maps](articles/multivariate.html)
+*   [Map Projections](articles/projections.html)
 
 **Univariate Thematic Map Types**
 

@@ -101,3 +101,7 @@ Some projections, such as Albers Equal Area Conic, require that you input standa
 ![](../images/projections11.jpg)
 
 By doing this, you're making sure that no point in your map is very far from a standard line – from one of those places where there's no distortion. This means that the distortion is minimized across the entire map.
+
+### Our Recommendations
+
+There is never a single "right answer" when choosing a map projections; the best choices depend on weighing all the factors described above. However, there are few facts and rules of thumb that can help narrow your choices. If you're working with web maps, you will often have no choice but Mercator. Be aware that this projection is widely considered inappropriate for many kinds of thematic mapping for anything larger than local areas, so be careful, and avoid Mercator outside those web environments. If you are making [choropleth](choropleth.html) or [dot density](dot_density.html) maps, look for an equal-area projection. For a handy guide to a variety of projections and their uses, see [these tables](http://www.radicalcartography.net/index.html?projectionref) by Bill Rankin.
