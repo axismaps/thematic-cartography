@@ -55,19 +55,4 @@ All else equal, bigger and bolder styles tend to promote labels and text in the 
 > 
 > **Depth of Family.** Font families that have a range of members are often good choices, given the variety of font styles regularly employed on maps. If a font comes in a regular, or Roman, weight, plus an italic and bold style, you'll be able to cover the common uses for these without having to introduce another font family. Some font families, like Helvetica Neue, are very 'deep' and can include 10 or more members.
 > 
-> **Cost.** Most of the time, good fonts cost money and require a license to use. Don't expect to find many freebie font families out there that look great across a range of sizes, work well in print and on screen, include a full set of glyphs, support multiple languages, contain a variety of members, and are otherwise suitable for mapping. _We've included 10 great free fonts with indiemapper that will get you going without spending a penny. You'll find them in the labeling palette, within both our built-in set of type templates and your fonts drop-down list:_
-> 
-> > **Fontin, Fontin Sans, and Delicious** _from Jos Buivenga's exljbris Font Foundry_
-> >  [http://www.josbuivenga.demon.nl/index.html](http://www.josbuivenga.demon.nl/index.html)
-> > 
-> > **Liberation Serif, Liberation Sans, Droid Serif, and Droid Sans** _from Steve Matteson at Ascender Corporation_
-> >  [http://www.ascendercorp.com/fonts/liberation/](http://www.ascendercorp.com/fonts/liberation/)
-> >  [https://www.redhat.com/promo/fonts/](https://www.redhat.com/promo/fonts/)
-> >  [http://www.droidfonts.com/](http://www.droidfonts.com/)
-> >  [http://android.git.kernel.org/?p=platform/frameworks/base.git;a=tree;f=data/fonts;hb=HEAD](http://android.git.kernel.org/?p=platform/frameworks/base.git;a=tree;f=data/fonts;hb=HEAD)
-> > 
-> > **Bitstream Vera Serif and Bitstream Vera Sans** _from Jim Lyles at Bitstream, Inc_.
-> >  [http://www.gnome.org/fonts/](http://www.gnome.org/fonts/)
-> > 
-> > **Gentium** _from Victor Gaultney at SIL International_
-> >  [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=Gentium](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=Gentium)
+> **Cost.** Most of the time, good fonts cost money and require a license to use. _Good typography is worth paying for!_ Don't expect to find many freebie font families out there that look great across a range of sizes, work well in print and on screen, include a full set of glyphs, support multiple languages, contain a variety of members, and are otherwise suitable for mapping. That said, there are many decent free fonts out there through things like [Google Fonts](https://www.google.com/fonts).
