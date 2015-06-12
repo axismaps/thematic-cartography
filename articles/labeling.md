@@ -59,7 +59,7 @@ All else equal, bigger and bolder styles tend to promote labels and text in the 
 
 ### Suggested fonts
 
-Below are a few of our go-to fonts. Some of these are better for user interfaces, some are better for map labeling, and some could be used for both. Note the condensed and narrow families, which can be useful for labeling. Also note the few families that have both a serif and sans serif counterpart, which can be handy for a fully unified look (e.g., map labels and body copy). Most have at least the four basic variants (regular, bold, italic, bold italic), some many more. Most are on [Google Fonts](https://www.google.com/fonts), but some are on [Typekit](https://typekit.com/) or are paid.
+Below are a few of our go-to fonts. Some of these are better for web map user interfaces, some are better for map labeling, and some could be used for both. Note the condensed and narrow families, which can be useful for labeling. Also note the few families that have both a serif and sans serif counterpart, which can be handy for a fully unified look (e.g., map labels and body copy). Most have at least the four basic variants (regular, bold, italic, bold italic), some many more. Most are free on [Google Fonts](https://www.google.com/fonts), but some are on [Typekit](https://typekit.com/) or are paid.
 
 #### Sans serif:
 
