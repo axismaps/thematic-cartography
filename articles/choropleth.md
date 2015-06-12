@@ -3,6 +3,8 @@ layout: page
 title: Choropleth Maps
 ---
 
+![](../images/choropleth.jpg)
+
 ### When to Use
 
 You can use a choropleth maps when your data are **(1)** attached to enumeration units (e.g., counties, provinces, countries), **(2)** [standardized to show rates or ratios](../articles/standardize.html) (never use choropleth with raw data/counts), and **(3)** you have a continuous statistical surface, in other words, you could conceptually measure the phenomena anywhere in space (n.b. 'zero' is still a valid measurement). For example, _number of people_ is a count and not appropriate for choropleth maps; _number of people per square mile_ is a ratio and is a continuous statistical surface (even if it drops to zero over uninhabited places, every location has a data value) and, thus, is appropriate for choropleth maps.

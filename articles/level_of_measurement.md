@@ -13,6 +13,6 @@ What follows is a brief overview of the concept of "level of measurement". For m
 
 > **Numerical Data** are the real engine that fuels thematic maps. Anything that can be counted (e.g., people, barrels of oil) or measured (e.g., temperature, income) makes for great thematic thematic maps. One important issue to consider when using numerical data is whether [you should standardize your data](../articles/standardize.html); this can change what kinds of maps you can (and can't) use.
 > 
-> **Nominal Data** are categories that are inherently unorderable, such as _dominant religion, soil types_, or _land-use categories_. They have no numbers attached to them, nor are they rankable—they're merely _different kinds of things_. Nominal data is currently supported in indiemapper.
+> **Nominal Data** (also known as categorical or qualitative data) are categories that are inherently unorderable, such as _dominant religion, soil types_, or _land-use categories_. They have no numbers attached to them, nor are they rankable—they're merely _different kinds of things_.
 > 
 > **Ordinal Data** are inherently _orderable categorical data_ like shirt sizes (s / m / l / xl), flood risk (low risk / medium risk / high risk) or age (young / middle aged / old). Mapping ordinal data is best done with a [classed choropleth map](../articles/choropleth.html) with a [sequential color scheme](../articles/color_schemes.html), or as a [graduated symbol map](../articles/proportional_symbols.html) in which the number of classes is equal to the number of data categories you have.

@@ -6,7 +6,7 @@ layout: default
 
 This is by no means a replacement for a full textbook on cartography; rather it is a quick reference guide for those moments when you're stumped, unsure of what to do next, or unfamiliar with the terminology. While the recommendations on these pages are quick and not loaded with academic references, please appreciate that they represent a thoughtful synthesis of decades of map-making research.
 
-This guide is written by Axis Maps, adapted from documentation written for [indiemapper](http://indiemapper.com) in 2010. However, the content here is about general cartography principles, not software-specific tips. To see the material in its original context, visit [indiemapper](http://indiemapper.com) and its [help pages](http://indiemapper.com/app/learnmore.php?l=index).
+This guide is written by [Axis Maps](http://axismaps.com), adapted from documentation written for [indiemapper](http://indiemapper.com) in 2010. However, the content here is about general cartography principles, not software-specific tips. To see the material in its original context, visit [indiemapper](http://indiemapper.com) and its [help pages](http://indiemapper.com/app/learnmore.php?l=index).
 
 **General Map Making Topics**
 
@@ -15,7 +15,7 @@ This guide is written by Axis Maps, adapted from documentation written for [indi
 *   [The Basics of Data Classification](articles/classification.html)
 *   [Labeling and Text in Cartography](articles/labeling.html)
 *   [Using Colors on Thematic Maps](articles/color_schemes.html)
-*   [Univariate Maps _versus_ Multivariate Maps](articles/multivariate.html)
+*   [Univariate Maps versus Multivariate Maps](articles/multivariate.html)
 
 **Univariate Thematic Map Types**
 
@@ -27,8 +27,8 @@ This guide is written by Axis Maps, adapted from documentation written for [indi
 **Multivariate Thematic Map Types**
 
 *   [Bivariate Choropleth](articles/bivariate_choropleth.html)
-*   [Bivariate Cartogram](articles/bivariate_cartograms.html)
 *   [Bivariate Proportional Symbols](articles/bivariate_proportional.html)
+*   [Bivariate Cartogram](articles/bivariate_cartograms.html)
 *   [Value by Alpha](articles/value_by_alpha.html)
 
 **Want to dig a bit deeper?** Have a look at a few of our favorite textbooks:

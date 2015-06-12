@@ -3,6 +3,8 @@ layout: page
 title: Labeling and text hierarchy in cartography
 ---
 
+![](../images/labels.jpg)
+
 ### Background
 
 The default thinking tends to be that labels and text on the map are for naming geographic features. While this is extremely important, they function in a number of other valuable ways, too. For example, **labels** also confirm the locations of features, reflect their character and shape, indicate relationships between them, and symbolize data associated with them. **Text**, in the form of short blocks or descriptions, is used for essential elements of map design like title, data sources, projection, and scale, as well as to provide an explanation about what a map is showing. Because of their prevalence (especially on reference maps) and tendency to compete for attention with other map symbols, labels and text make also make a strong aesthetic impression on the map reader and contribute to its overall 'look and feel'. Although every map is different, labels and text deepen our understanding of a place in ways that other graphical elements (like color) cannot.

@@ -3,6 +3,8 @@ layout: page
 title: Proportional Symbols
 ---
 
+![](../images/prop_symbols.jpg)
+
 ### When to Use
 
 Proportional symbol maps scale the size of simple symbols (usually a circle or square) proportionally to the data value found at that location. They are a simple concept to grasp: The larger the symbol, the "more" of something exists at a location. The most basic method is to **scale the circles directly proportionate to the data** so that if, for example, Toronto has twice the population of Vancouver, the population symbol for Toronto will have **twice the area**. However, you can also group your observations into categories or numerical ranges and created **graduated symbol maps** that may, for example, only have three symbol sizes corresponding to three categories of city size (e.g., cities of <1 million, 1-4 million, and over 4 million people). The pros and cons of proportional versus graduated symbols are discussed in more detail below.
