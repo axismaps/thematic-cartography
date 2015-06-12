@@ -56,3 +56,38 @@ All else equal, bigger and bolder styles tend to promote labels and text in the 
 > **Depth of Family.** Font families that have a range of members are often good choices, given the variety of font styles regularly employed on maps. If a font comes in a regular, or Roman, weight, plus an italic and bold style, you'll be able to cover the common uses for these without having to introduce another font family. Some font families, like Helvetica Neue, are very 'deep' and can include 10 or more members.
 > 
 > **Cost.** Most of the time, good fonts cost money and require a license to use. _Good typography is worth paying for!_ Don't expect to find many freebie font families out there that look great across a range of sizes, work well in print and on screen, include a full set of glyphs, support multiple languages, contain a variety of members, and are otherwise suitable for mapping. That said, there are many decent free fonts out there through things like [Google Fonts](https://www.google.com/fonts).
+
+### Suggested fonts
+
+Below are a few of our go-to fonts. Some of these are better for user interfaces, some are better for map labeling, and some could be used for both. Note the condensed and narrow families, which can be useful for labeling. Also note the few families that have both a serif and sans serif counterpart, which can be handy for a fully unified look (e.g., map labels and body copy). Most have at least the four basic variants (regular, bold, italic, bold italic), some many more. Most are on [Google Fonts](https://www.google.com/fonts), but some are on [Typekit](https://typekit.com/) or are paid.
+
+#### Sans serif:
+
+* [Open Sans](https://www.google.com/fonts/specimen/Open+Sans) and [Open Sans Condensed](https://www.google.com/fonts/specimen/Open+Sans+Condensed) (Google Fonts)
+* [Source Sans Pro](https://www.google.com/fonts/specimen/Source+Sans+Pro) (Google Fonts)
+* [PT Sans](https://www.google.com/fonts/specimen/PT+Sans) and [PT Sans Narrow](https://www.google.com/fonts/specimen/PT+Sans+Narrow) (Google Fonts)
+* [Myriad Pro and Myriad Web Pro](https://typekit.com/fonts/myriad-pro) (Paid, Typekit)
+* [Ubuntu](https://www.google.com/fonts/specimen/Ubuntu) and [Ubuntu Condensed](https://www.google.com/fonts/specimen/Ubuntu+Condensed) (Google Fonts)
+* Arial and Arial Narrow (Paid but almost definitely on your computer already)
+* [Proxima Nova](https://typekit.com/fonts/proxima-nova) and [Proxima Nova Condensed](https://typekit.com/fonts/proxima-nova-condensed) (Paid, Typekit)
+* [Oswald](https://www.google.com/fonts/specimen/Oswald) (Google Fonts)
+* [Merriweather Sans](https://www.google.com/fonts/specimen/Merriweather+Sans) (Google Fonts)
+* [Fira Sans](https://www.google.com/fonts/specimen/Fira+Sans) (Google Fonts)
+
+#### Serif:
+
+* [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro) (Google Fonts)
+* [PT Serif](https://www.google.com/fonts/specimen/PT+Serif) (Google Fonts)
+* [Merriweather](https://www.google.com/fonts/specimen/Merriweather) (Google Fonts)
+* [Aver](http://www.dafont.com/aver.font) (Free)
+* [Lora](https://www.google.com/fonts/specimen/Lora) (Google Fonts)
+* [Latienne Pro](https://typekit.com/fonts/latienne-pro) (Paid, Typekit)
+* [IM Fell](http://www.dafont.com/im-fell-types.font) Great Primer and others (Google Fonts)
+
+#### Monospace:
+
+* [Fira Mono](https://www.google.com/fonts/specimen/Fira+Mono) (Google Fonts)
+
+#### Symbol:
+
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/) (Free)
