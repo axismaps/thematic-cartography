@@ -10,6 +10,7 @@ This guide is written by [Axis Maps](http://axismaps.com), adapted from document
 
 **General Map Making Topics**
 
+*   [What are Thematic Maps?](articles/thematic.html)
 *   [Level of Measurement: Nominal, Ordinal, and Numerical Data](articles/level_of_measurement.html)
 *   [Standardizing Data](articles/standardize.html)
 *   [The Basics of Data Classification](articles/classification.html)
