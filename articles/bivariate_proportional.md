@@ -9,6 +9,6 @@ Bivariate proportional / graduated symbol maps combine two datasets (usually num
 
 ### Example Map
 
-This is a 5-class x 5-class bivariate graduated symbol map that uses [natural breaks classification](../articles/classification.html) method and [sequential color scheme](../articles/color_schemes.html). While this map uses orderable (ordinal or ratio) data for both size and color, color on a bivariate proportional symbol map could also encode categorica; data represented by a qualitative color scheme.
+This is a 5-class x 5-class bivariate graduated symbol map that uses [natural breaks classification](../articles/classification.html) method and [sequential color scheme](../articles/color_schemes.html). While this map uses orderable (ordinal or ratio) data for both size and color, color on a bivariate proportional symbol map could also encode categorical data represented by a qualitative color scheme.
 
 ![](../images/bivariate_prop.jpg)
