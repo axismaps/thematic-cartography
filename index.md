@@ -6,7 +6,7 @@ layout: default
 
 This is by no means a replacement for a full textbook on cartography; rather it is a quick reference guide for those moments when you're stumped, unsure of what to do next, or unfamiliar with the terminology. While the recommendations on these pages are short and not loaded with academic references, please appreciate that they represent a thoughtful synthesis of decades of map-making research.
 
-This guide was written by [Axis Maps](http://axismaps.com), adapted from documentation written for [indiemapper](http://indiemapper.com) in 2010. However, the content here is about general cartography principles, not software-specific tips. To see the material in its original context, visit [indiemapper](http://indiemapper.com) and its [help pages](http://indiemapper.com/app/learnmore.php?l=index).
+This guide was written by [Axis Maps](http://axismaps.com), adapted from documentation written for [indiemapper](http://indiemapper.io) in 2010. However, the content here is about general cartography principles, not software-specific tips. To see the material in its original context, visit [indiemapper](http://indiemapper.io) and its [help pages](http://indiemapper.io/app/learnmore.php?l=index).
 
 **General Map Making Topics**
 
