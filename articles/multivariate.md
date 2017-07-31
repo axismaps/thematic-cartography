@@ -11,7 +11,7 @@ If your data has only one thematic layer or theme, you can of course map only **
 
 ![](../images/multiv_panel.jpg)
 
-_Example of multivariate map types available in [indiemapper](http://indiemapper.com)._
+_Example of multivariate map types available in [indiemapper](http://indiemapper.io)._
 
 The majority of thematic maps show one attribute such as _per capita income_. Often a simple univariate maps is all you need since you only have one attribute to map (that was easy!). However, sometimes the most interesting and informative thematic maps deliberately juxtapose two or more thematic datsets. This makes it possible for readers to **compare different data sets directly** and, often, helps us to see important connections. For example, a bivariate map of _per capita income_ and _life expectancy_ might reveal a strong correlation between those variables. Multivariate maps also help us to save space, since we can put more data on a single map rather than spread them across a series of single-theme maps. When they work well, the best multivariate maps are greater than the sum of their parts and tell rich, complex spatial stories.
 

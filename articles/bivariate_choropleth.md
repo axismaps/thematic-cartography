@@ -13,7 +13,7 @@ All other things being equal, bivariate choropleth maps are more difficult to re
 
 ### Example Map
 
-This is a 3-class x 3-class bivariate choropleth map from [indiemapper](http://indiemapper.com) that uses a diverging x diverging scheme (more here about [color schemes](../articles/color_schemes.html). Below that is a scatterplot which allows you to see the numerical distribution of your observations and make informed decisions about how to best classify your data (more here about [data classification](../articles/classification.html). Just like a histogram for single-variable maps, a scatterplot is a useful tool for devising classification schemes for bivariate choropleth maps.
+This is a 3-class x 3-class bivariate choropleth map from [indiemapper](http://indiemapper.io) that uses a diverging x diverging scheme (more here about [color schemes](../articles/color_schemes.html). Below that is a scatterplot which allows you to see the numerical distribution of your observations and make informed decisions about how to best classify your data (more here about [data classification](../articles/classification.html). Just like a histogram for single-variable maps, a scatterplot is a useful tool for devising classification schemes for bivariate choropleth maps.
 
 ![](../images/bivariate_choroMAP.jpg)
 
