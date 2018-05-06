@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: Proportional Symbols
+redirect_to: https://www.axismaps.com/guide/univariate/proportional-symbols/
 ---
 
 ![](../images/prop_symbols.jpg)

@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: Bivariate Cartograms
+redirect_to: https://www.axismaps.com/guide/multivariate/bivariate-cartograms/
 ---
 
 ### When to Use

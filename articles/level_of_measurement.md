@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: Level of Measurement&#58; Nominal, Ordinal, and Numerical Data
+redirect_to: https://www.axismaps.com/guide/data/level-of-measurement/
 ---
 
 ### Know Your Data

@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: Map Projections
+redirect_to: https://www.axismaps.com/guide/general/map-projections/
 ---
 
 ### Flattening the Earth

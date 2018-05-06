@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: Non-Contiguous Cartograms
+redirect_to: https://www.axismaps.com/guide/univariate/cartograms/
 ---
 
 ### When to Use

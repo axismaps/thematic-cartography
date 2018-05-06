@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: Bivariate Choropleth
+redirect_to: https://www.axismaps.com/guide/multivariate/bivariate-choropleth/
 ---
 
 ### When to Use

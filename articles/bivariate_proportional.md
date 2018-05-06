@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: Bivariate Proportional Symbols
+redirect_to: https://www.axismaps.com/guide/multivariate/bivariate-proportional-symbols/
 ---
 
 ### When to Use

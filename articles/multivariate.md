@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: Univariate Maps Versus Multivariate Maps
+redirect_to: https://www.axismaps.com/guide/multivariate/multivariate-vs-univariate/
 ---
 
 ### One Data Theme or Many Data Themes?

@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: Dot Density Maps
+redirect_to: https://www.axismaps.com/guide/univariate/dot-density/
 ---
 
 ### When to Use

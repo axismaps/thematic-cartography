@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: Standardizing Data
+redirect_to: https://www.axismaps.com/guide/data/standardizing-data/
 ---
 
 ### To Standardize or Not?

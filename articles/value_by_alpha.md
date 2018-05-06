@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: Value-By-Alpha Maps
+redirect_to: https://www.axismaps.com/guide/multivariate/value-by-alpha/
 ---
 
 ### When to Use

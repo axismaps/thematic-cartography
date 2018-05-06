@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: The Basics of Data Classification
+redirect_to: https://www.axismaps.com/guide/data/data-classification/
 ---
 
 ### When to Use

@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: Using Colors on Thematic Maps
+redirect_to: https://www.axismaps.com/guide/general/using-colors-on-maps/
 ---
 
 ### Controlling the Three Dimensions of Color

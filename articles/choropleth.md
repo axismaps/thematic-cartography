@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: Choropleth Maps
+redirect_to: https://www.axismaps.com/guide/univariate/choropleth/
 ---
 
 ![](../images/choropleth.jpg)

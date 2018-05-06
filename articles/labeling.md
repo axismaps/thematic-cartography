@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: Labeling and text hierarchy in cartography
+redirect_to: https://www.axismaps.com/guide/general/labeling/
 ---
 
 ![](../images/labels.jpg)

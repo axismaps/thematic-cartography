@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: What are Thematic Maps?
+redirect_to: https://www.axismaps.com/guide/general/what-is-a-map/
 ---
 
 ### Reference maps versus thematic maps
