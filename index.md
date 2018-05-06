@@ -1,5 +1,5 @@
 ---
-layout: redirected
+layout: redirect
 redirect_to:  https://www.axismaps.com/guide/
 ---
 
