@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: redirected
+redirect_to:  https://www.axismaps.com/guide/
 ---
 
 **Welcome!** In this short guide we share some insights and tips for making thematic maps. Our goal is to cover the important concepts in cartography and flag the important decision points in the map-making process. As with many activities in life, there isn't always a single best answer in cartography, and in those cases we've tried to outline some of the pros and cons to different solutions. 
