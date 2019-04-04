@@ -16,7 +16,7 @@ Classification matters because how we group our data into classes is one of the 
 
 _This map uses a 5-class equal interval classification scheme (1-10, 11-20, ...)._
 
-**NOTE:** This discussion applies to anyone making [Choropleth Maps](../articles/choropleth.html), [Graduated Symbol Maps](../articles/proportional_symbols.html) or [Cartograms](../articles/cartogram.html) since you can make either classed or unclassed versions of those maps.
+**NOTE:** This discussion applies to anyone making [Choropleth Maps](../articles/choropleth.html), [Graduated Symbol Maps](../articles/proportional_symbols.html) or [Cartograms](../articles/cartograms.html) since you can make either classed or unclassed versions of those maps.
 
 ### The Goal of Data Classification
 
